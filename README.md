@@ -5,7 +5,7 @@
 | FIRST | [Jan-Feb](https://www.first.org/conference/2021/cfp)| June |
 | DEFCON     	| [Apr-May](https://defcon.org/html/defcon-30/dc-30-cfp.html) 	| August 	|
 | ONE conference | [May]() | October |
-| Black Hat USA 	| [Jun-Jul](https://www.blackhat.com/call-for-papers.html      	| August 	|
+| Black Hat USA 	| [Jun-Jul](https://www.blackhat.com/call-for-papers.html)      	| August 	|
 | Black Hat Asia| | |  
 | Europol Forensics Expert Forum | [Aug-Oct](https://www.europol.europa.eu/publications-events/events/forensic-experts-forum-2022-conference) | December|
 | Europol IP Crime Conference | | October|
